@@ -1,0 +1,30 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+
+#artistImage {
+  max-width: 250px;
+  margin: auto;
+  display: block;
+}
+
+#concertImage {
+  max-width: 250px;
+  margin: auto;
+  display: block;
+}
+
+.card-footer {
+  background-color: transparent;
+}
+
+#artistName,
+#artistListeners {
+  text-align: center;
+}
+
+#artistUrl,
+#wikiInfoTitle,
+#restaurantNearVenueTitle {
+  display: none;
+}
