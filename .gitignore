@@ -1,1 +1,30 @@
-node_modules
+# dependencies
+/node_modules
+
+# build
+/build
+
+# local environment
+.env
+
+# editor config
+/.vscode
+/.idea
+
+# debug file
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# project config file
+/package-lock.json
+/yarn.lock
+
+# Mac OS system file
+.DS_Store
+
+# test file
+/coverage
+
+# budle analysis
+/bundle-report.html
